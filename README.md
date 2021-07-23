@@ -8,4 +8,4 @@
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=SwishyW&show_icons=true&theme=graywhite)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwishyW&layout=compact&theme=graywhite) 
+
