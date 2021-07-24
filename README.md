@@ -21,7 +21,7 @@
 
 <hr>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwishyW&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishyW&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB" alt="SwishyW's github stats" />
   
 <hr>
