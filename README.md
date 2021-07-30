@@ -16,7 +16,7 @@
  
  
 <img src="https://komarev.com/ghpvc/?username=SwishyW&label=Profile%20views&color=0e75b6&style=flat" alt="SwishyW" /> </p>
-<img src="https://discord.c99.nl/widget/theme-2/852845185619591168.png">
+<img src="https://discord.c99.nl/widget/theme-3/757816081132945420.png">
 
 
 <hr>
