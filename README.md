@@ -1,4 +1,4 @@
-### Hi there, I'm [Swishy!](https://github.com/SwishyW) <a href="https://discord.gg/3dkrANHsPd"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
+### Hi there, I'm [Swishy!](https://github.com/SwishyW) <a href="https://discord.gg/london"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 <hr>
 
 - Python
