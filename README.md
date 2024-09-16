@@ -9,7 +9,7 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SwishyW/SwishyW/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SwishyW/SwishyW/output/github-contribution-grid-snake.svg-dark" />
 
 ###
 
