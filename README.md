@@ -9,7 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Swishy/Swishy/output/snake.svg" alt="Snake animation" />
 
 ###
 
